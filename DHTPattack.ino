@@ -1,3 +1,7 @@
+//Strave DHTP attack on bw16, its blocks all IP addresses on the network and makes it impossible to connect to new one
+//ONLY FOR STUDY PURPOSE
+// WARNING: version of AmebaSDK must be 3.1.7 for normal compile
+//made by SoDaVk, please give me a star on github: https://github.com/SODAVK
 #include <Arduino.h>
 #include <WiFi.h>
 #include <WiFiUdp.h>
